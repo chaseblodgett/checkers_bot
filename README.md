@@ -18,15 +18,15 @@ A Python-based checkers AI using **Alpha-Beta Pruning** with various heuristic s
 ## ▶️ Usage
 
 
-### Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
 ### Clone the repo
 ```bash
 git clone https://github.com/chaseblodgett/checkers_bot.git
 cd checkers_bot
+```
+
+### Install dependencies
+```bash
+pip install -r requirements.txt
 ```
 
 ### Run the program
